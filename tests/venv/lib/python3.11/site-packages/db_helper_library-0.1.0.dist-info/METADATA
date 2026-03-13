@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: db_helper_library
+Version: 0.1.0
+Summary: A helper library for testers (DB, API, Selenium utils)
+Author: Manesh Kadam
+Requires-Dist: mysql-connector-python
+Requires-Dist: requests
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
